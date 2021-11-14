@@ -1,14 +1,3 @@
-# InvaderZ
-
-InvaderZ is like the game Space Invaders, except InvaderZ uses the [genetic algorithm](https://en.wikipedia.org/wiki/Genetic_algorithm) to mutate the invaders as you play.
-
-![InvaderZ](screenshot.png)
-
-If you want to see a live version of it, it's hosted [here](https://victorribeiro.com/invaderz).
-
-[Alternative link](https://victorqribeiro.github.io/invaderz).
-
-You can also add it as an app to your phone (menu / add to home screen), if you wish so.
 
 ## How to Play
 
@@ -46,5 +35,3 @@ The cross over could happen of 6 different forms:
 There's a 10% chance of mutation after each cross over, altering their body shape and so the way they move. 
 
 To keep things interesting, after 7 generations, a new wave is created from scratch and only the best of the 7 past generations is keep.
-
-[![Donations](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=victorqribeiro%40gmail%2ecom&lc=BR&item_name=Victor%20Ribeiro&item_number=donation&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted)
